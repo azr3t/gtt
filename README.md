@@ -1,2 +1,1 @@
-# GTT updated from WEB
-// use remotedev branch
+# GTT master
